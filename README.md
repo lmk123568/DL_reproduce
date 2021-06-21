@@ -6,6 +6,10 @@ Hi guy！Welcome to here:two_hearts::blush:
 
 > AI studio 完全免费，你不用担心没有GPU~
 
+- [x] [FF Only](https://aistudio.baidu.com/aistudio/projectdetail/2104496) ~New
+- [x] [Conformer](https://aistudio.baidu.com/aistudio/projectdetail/2096050) ~ New :+1:
+- [x] [ESPANet](https://aistudio.baidu.com/aistudio/projectdetail/2080546) ~ New
+
 - [x] [ConViT](https://aistudio.baidu.com/aistudio/projectdetail/2023435)
 - [x] [Visformer](https://aistudio.baidu.com/aistudio/projectdetail/2025397)
 - [x] [gMLP](https://aistudio.baidu.com/aistudio/projectdetail/2009567)
