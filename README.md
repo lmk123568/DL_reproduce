@@ -15,7 +15,7 @@ Hi guy！Welcome to here:two_hearts::blush:
 - [x] [ConViT](https://aistudio.baidu.com/aistudio/projectdetail/2023435)
 - [x] [Visformer](https://aistudio.baidu.com/aistudio/projectdetail/2025397)
 - [x] [gMLP](https://aistudio.baidu.com/aistudio/projectdetail/2009567)
-- [x] [ResMLP](https://aistudio.baidu.com/aistudio/projectdetail/2005218)
+- [x] [ResMLP](https://aistudio.baidu.com/aistudio/projectdetail/2009543)
 - [x] [RepMLP](https://aistudio.baidu.com/aistudio/projectdetail/2005218)
 - [x] [MLP-Mixer](https://aistudio.baidu.com/aistudio/projectdetail/2009536)
 - [x] [Coordinate Attention](https://aistudio.baidu.com/aistudio/projectdetail/1884947)
