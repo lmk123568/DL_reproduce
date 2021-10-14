@@ -5,10 +5,12 @@ Hi guy！Welcome to here:two_hearts::blush:
 这里是对前沿论文的复现，它们全部基于`PaddlePaddle`框架。点击下面您感兴趣的项目，即可跳转到`AI studio`在线运行:ok_woman:
 
 > AI studio 完全免费，你不用担心没有GPU~
-> 
-- [x] [PVT v2](https://aistudio.baidu.com/aistudio/projectdetail/2136902) ~ New
-- [x] [ViP](https://aistudio.baidu.com/aistudio/projectdetail/2120065)    ~ New
 
+- [x] [BEiT](https://aistudio.baidu.com/aistudio/projectdetail/2417241) ~ New
+- [x] [ConvMLP](https://aistudio.baidu.com/aistudio/projectdetail/2413897) ~ New
+
+- [x] [PVT v2](https://aistudio.baidu.com/aistudio/projectdetail/2136902)
+- [x] [ViP](https://aistudio.baidu.com/aistudio/projectdetail/2120065)
 - [x] [FF Only](https://aistudio.baidu.com/aistudio/projectdetail/2104496)
 - [x] [Conformer](https://aistudio.baidu.com/aistudio/projectdetail/2096050)
 - [x] [ESPANet](https://aistudio.baidu.com/aistudio/projectdetail/2080546)
